@@ -1,0 +1,6 @@
+``` yaml
+project:
+  type: website
+  output-dir: docs
+  title: "nome_do_seu_projeto"
+```
